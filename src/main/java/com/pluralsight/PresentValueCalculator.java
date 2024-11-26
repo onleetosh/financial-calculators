@@ -1,7 +1,6 @@
 /**
- * Calculator 3: used to determine the present value of an ordinary annuity.
- *
- * Ex. to fund an annuity that pays $3000 monthly for 20 years and earns an expected 2.5% interest
+ * Calculator 3: Used to find the present value of an ordinary annuity.
+ * For instance, to fund an annuity that pays $3,000 per month for 20 years and earns an expected 2.5% interest,
  * you would need to invest $566,141.46 today.
  *
  */

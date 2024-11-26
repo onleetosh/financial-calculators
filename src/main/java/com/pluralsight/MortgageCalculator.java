@@ -1,7 +1,8 @@
 /**
- A mortgage calculator - used to find out how much a monthly payment for a
- loan would be (minus an insurance or taxes), as well as how much interest
- you would pay over the life of the loan
+ * Calculator 1: Used to find the monthly payment for a loan, excluding insurance or taxes.
+ * It also provides information about the total interest paid over the life of the loan.
+ * For instance, a $53,000 loan with a 7.625 interest rate for 15 years would result
+ * in a monthly payment of $495.09, with a total interest amounting to $36,115.99.
  **/
 
 
@@ -17,7 +18,7 @@ public class MortgageCalculator {
         double loanLength = Console.PromptForDouble("Enter loan length: ");
 
 
-        // dalculate the monthly interest rate
+        // calculate the monthly interest rate
         double monthlyInterestRate = (annualInterestRate / 100) / 12;
 
         // calculate the number of payments

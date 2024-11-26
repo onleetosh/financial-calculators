@@ -1,6 +1,8 @@
 /**
- * A calculator that determines the future value of a one-time deposit assuming compound interest.
- * This calculator is used to help you decide how much a CD will be worth when it matures.
+ * Calculator 2: Used to find the future value of a one-time deposit, assuming compound interest.
+ * This calculator assists you in calculating the maturity value of a Certificate of Deposit (CD).
+ * For instance, if you deposit $1,000 in a CD that earns an annual interest rate of 1.75 and matures in 5 years,
+ * the CD’s ending balance will be $1,092.62. Additionally, you would have earned $92.62 in interest.
  */
 
 
